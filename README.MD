@@ -35,3 +35,8 @@ This project is a customized version of a course project focused on creating a b
 The project is designed to manage book transactions efficiently, supporting administrative functions and basic cashier operations. The choice of PostgreSQL and manual Sequelize configuration reflects a tailored approach to database management, while Winston enhances the logging capabilities compared to the course’s implementation with Morgan. Additionally, JOI is employed for validation, adding an extra layer of reliability to the application's data handling.
 
 Feel free to explore and contribute to the project! If you have any questions or suggestions, don’t hesitate to reach out.
+
+
+
+Documentation in POSTMAN
+https://documenter.getpostman.com/view/27969319/2sAXqp9j5z
